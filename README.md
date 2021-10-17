@@ -1,6 +1,4 @@
-# gulp-4.0.2
-
-# Gulp for html css coding 
+# gulp-4.0.2 for html css coding 
 
 install gulp
 <pre>npm install -g gulp</pre>

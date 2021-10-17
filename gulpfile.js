@@ -1,3 +1,4 @@
+//gul, gulp-rename, gulp-sass, sass, gulp-notify, browser-sync
 var gulp = require('gulp');
 var rename = require('gulp-rename');
 var sass = require('gulp-sass')(require('sass')); //npm install --save-dev sass
